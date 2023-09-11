@@ -1,4 +1,4 @@
-module github.com/ujblockchain/blockchainrecord
+module github.com/GarikayiTarambiwa/Blockchain/gofarm
 
 go 1.21.0
 
