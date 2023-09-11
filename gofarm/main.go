@@ -1,10 +1,10 @@
 package main
 
 import (
+	"github.com/GarikayiTarambiwa/Blockchain/gofarm/constants"
+	"github.com/GarikayiTarambiwa/Blockchain/gofarm/router"
+	"github.com/GarikayiTarambiwa/Blockchain/gofarm/server"
 	"github.com/labstack/echo/v4"
-	"github.com/ujblockchain/blockchainrecord/constants"
-	"github.com/ujblockchain/blockchainrecord/router"
-	"github.com/ujblockchain/blockchainrecord/server"
 )
 
 func main() {
